@@ -13215,6 +13215,8 @@ annotations:
     span:
       start: 2459332
       end: 2460080
+    note_ref: c5b4dbc3e3434b6c91b254f3b140a965
+    note_ref_pg_num: 1818
   5e8535c52e6d49d8b22e64c1819b1549:
     page_index: 909a
     page_info: ''
@@ -13222,6 +13224,8 @@ annotations:
     span:
       start: 2460083
       end: 2461402
+    note_ref: c5b4dbc3e3434b6c91b254f3b140a965
+    note_ref_pg_num: 1818
   c5b4dbc3e3434b6c91b254f3b140a965:
     page_index: 909b
     page_info: ''
