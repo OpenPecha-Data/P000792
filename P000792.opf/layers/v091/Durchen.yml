@@ -1,10 +1,10 @@
-id: 0e33d99e63b24f22b2a7e726b7c11321
+id: 167a18310055438abcf946c294275cad
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  89313103a8e54624a2eee969d931cf8f:
-    work_id: D4120
+  c1e5d6b8b8f94c5eb944e96ea2594156:
     span:
-      vol: 91
-      start: 1339103
-      end: 1523222
+      start: 1331149
+      end: 1514791
+local_ids:
+  c1e5d6b8b8f94c5eb944e96ea2594156: 200000

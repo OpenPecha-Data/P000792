@@ -1,34 +1,30 @@
-id: 5b6060d3014f497aaf12da810e771757
+id: 19ea38dd3891463cb8318df7f6b4ac5a
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  c0a769b7a63241e9b9d96aa93b2c8e8b:
-    work_id: ''
+  642e5754ebcd483f9df266946ba8f803:
     span:
-      vol: 10
-      start: 750659
-      end: 839874
-  d049f310a4f040b492e63c21d29b1e96:
-    work_id: D1416
+      start: 746603
+      end: 835484
+  a1ee57e697c24396b1a92c086d261ca1:
     span:
-      vol: 10
-      start: 897206
-      end: 903506
-  1b758bca958b467b901708e9b7ba1afd:
-    work_id: D1417
+      start: 892468
+      end: 898744
+  82d6c52ff530443397cccd858f332364:
     span:
-      vol: 10
-      start: 952134
-      end: 959255
-  1e9272be24e44a8d998419865a983c22:
-    work_id: D1418
+      start: 947088
+      end: 954188
+  b5dddbd0789144dd810c8354c42d844c:
     span:
-      vol: 10
-      start: 1040453
-      end: 1050431
-  757e32a062b543b6be651a7c2a7ebddf:
-    work_id: ''
+      start: 1034939
+      end: 1044879
+  68c2398f259b4bd0853bca2588803fb0:
     span:
-      vol: 10
-      start: 2132162
-      end: 2240780
+      start: 2120500
+      end: 2228695
+local_ids:
+  642e5754ebcd483f9df266946ba8f803: 200000
+  a1ee57e697c24396b1a92c086d261ca1: 200001
+  82d6c52ff530443397cccd858f332364: 200002
+  b5dddbd0789144dd810c8354c42d844c: 200003
+  68c2398f259b4bd0853bca2588803fb0: 200004

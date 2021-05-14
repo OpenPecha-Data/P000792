@@ -1,10 +1,10 @@
-id: 8b1edb219d1c499ba883b4d4480f600c
+id: 4eccccdcd1a14fffa1e76bd5c510b24b
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  25a8094b4e2d48d99c74356a9331c2ec:
-    work_id: D4311
+  a81396f568144b3385c3d2f5ed7dd821:
     span:
-      vol: 112
-      start: 1329764
-      end: 1521174
+      start: 1323231
+      end: 1514026
+local_ids:
+  a81396f568144b3385c3d2f5ed7dd821: 200000

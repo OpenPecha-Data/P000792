@@ -1,52 +1,45 @@
-id: d4184c67b6e446cd83978097a29a1d68
+id: d677e73ea5ce4b0685e3921edf1286c8
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  84e678797ed147a0a6cf6e38454c1c75:
-    work_id: D4027
+  88c9a92c0c3d406ebc3ce9f82c596824:
     span:
-      vol: 71
-      start: 91407
-      end: 100166
-  d09e5cd84dc74a6b92dd7abd9b8df51f:
-    work_id: D4028
+      start: 90841
+      end: 99582
+  7509f64aa53b468abfa20bb84715cee8:
     span:
-      vol: 71
-      start: 135791
-      end: 141216
-  2d56fff686b347fd9c39a2a0f54cbcad:
-    work_id: D4029
+      start: 135000
+      end: 140413
+  1344e88291d54c34ab3f624457e170da:
     span:
-      vol: 71
-      start: 590591
-      end: 645218
-  12577aa5c39d4d4b9058fae230789591:
-    work_id: D4030
+      start: 587117
+      end: 641644
+  9355dd19961e42a18b4d9d0fd38b12ec:
     span:
-      vol: 71
-      start: 675981
-      end: 678541
-  e962512e1cca402da24ab917fca4a276:
-    work_id: D4031
+      start: 672222
+      end: 674779
+  2068b3a9281a4c94bec56bae8244f569:
     span:
-      vol: 71
-      start: 697716
-      end: 699269
-  d0b8ad323283429ebecfda74959491a4:
-    work_id: D4032
+      start: 693822
+      end: 695369
+  26d0f19e5bef4550afd851343ce57ece:
     span:
-      vol: 71
-      start: 1134458
-      end: 1169138
-  0af0c8a5f9724c7ca71eba773e9b1be0:
-    work_id: ''
+      start: 1127980
+      end: 1162605
+  d37e9416b5db40938657e3b1a3aa8a0f:
     span:
-      vol: 71
-      start: 1258634
-      end: 1266169
-  73943dcacc9e4e7e9fcac92f046832c7:
-    work_id: ''
+      start: 1251555
+      end: 1259061
+  a5fdf91f2d2e44e999c76743928ae051:
     span:
-      vol: 71
-      start: 2225634
-      end: 2342554
+      start: 2212386
+      end: 2328924
+local_ids:
+  88c9a92c0c3d406ebc3ce9f82c596824: 200000
+  7509f64aa53b468abfa20bb84715cee8: 200001
+  1344e88291d54c34ab3f624457e170da: 200002
+  9355dd19961e42a18b4d9d0fd38b12ec: 200003
+  2068b3a9281a4c94bec56bae8244f569: 200004
+  26d0f19e5bef4550afd851343ce57ece: 200005
+  d37e9416b5db40938657e3b1a3aa8a0f: 200006
+  a5fdf91f2d2e44e999c76743928ae051: 200007
