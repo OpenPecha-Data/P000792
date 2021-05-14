@@ -1,52 +1,45 @@
-id: ca150f110e7e4024a37fff201184fcb6
+id: 5813181b00914290a091312201c40f21
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  b88968c25ec043e98435c61683bd09d4:
-    work_id: D1190
+  0987d27798474f2794858e5063b93667:
     span:
-      vol: 3
-      start: 814664
-      end: 891787
-  2e1f0046ca1b407a865cb84656fb1046:
-    work_id: D1191
+      start: 810091
+      end: 887280
+  b924c81c0c0541358cbd957726e3a51c:
     span:
-      vol: 3
-      start: 1182831
-      end: 1219221
-  dcdb10daea7747ccb189450c36479f84:
-    work_id: D1192
+      start: 1176676
+      end: 1213095
+  d3d3654605c3466fa7eef868e2837193:
     span:
-      vol: 3
-      start: 1254749
-      end: 1256509
-  384c5397d3d34ddf9381075890b7d773:
-    work_id: D1193
+      start: 1248413
+      end: 1250169
+  28d9bba3da3c478e848a5c2318e0add5:
     span:
-      vol: 3
-      start: 1364075
-      end: 1370475
-  484179dd08a54e15af8b1b2219e9c951:
-    work_id: D1194
+      start: 1357094
+      end: 1363497
+  fe38bcf86921458b8f11707efd2bd429:
     span:
-      vol: 3
-      start: 1388936
-      end: 1391270
-  2ba2ba64651c4bc89a1bd7af42b2123b:
-    work_id: D1195
+      start: 1381845
+      end: 1384181
+  b2c5511f126a41f8bb45e7b94104b5b0:
     span:
-      vol: 3
-      start: 1408471
-      end: 1410049
-  c1afac6b52cc44d598da5450046bd81b:
-    work_id: D1196
+      start: 1401289
+      end: 1402861
+  2a9220f5378246c582081dff2e36d2e4:
     span:
-      vol: 3
-      start: 1547213
-      end: 1561519
-  9159dfe0289e49f29c9e8a893fa0e850:
-    work_id: D1197
+      start: 1539234
+      end: 1553553
+  280b22ef9aff457287b94424eea641fa:
     span:
-      vol: 3
-      start: 2319355
-      end: 2373675
+      start: 2307492
+      end: 2361882
+local_ids:
+  0987d27798474f2794858e5063b93667: 200000
+  b924c81c0c0541358cbd957726e3a51c: 200001
+  d3d3654605c3466fa7eef868e2837193: 200002
+  28d9bba3da3c478e848a5c2318e0add5: 200003
+  fe38bcf86921458b8f11707efd2bd429: 200004
+  b2c5511f126a41f8bb45e7b94104b5b0: 200005
+  2a9220f5378246c582081dff2e36d2e4: 200006
+  280b22ef9aff457287b94424eea641fa: 200007

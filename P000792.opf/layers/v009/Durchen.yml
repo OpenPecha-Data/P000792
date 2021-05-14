@@ -1,64 +1,55 @@
-id: b6d282839a8048de83569759890fcc75
+id: 901ed921167f460b9d1b493b32437e33
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  bc4206d3e6f94b9bbaa04447abeeae2e:
-    work_id: D1405
+  ad26dd1fe5fc4871acb637244d521bcb:
     span:
-      vol: 9
-      start: 181259
-      end: 189241
-  77f3908118f5448caf39b5f4917c69eb:
-    work_id: ''
+      start: 180304
+      end: 188252
+  2846531c937841a1a1d246bf3f360457:
     span:
-      vol: 9
-      start: 284720
-      end: 291243
-  3cca9c3adece48ccbf8088525baaba56:
-    work_id: D1407
+      start: 283160
+      end: 289673
+  f1eb382daae6419c82834660c5c1eaa4:
     span:
-      vol: 9
-      start: 578545
-      end: 602223
-  833451cf9c7f4172982574b3d654042d:
-    work_id: D1408
+      start: 575313
+      end: 598895
+  6eaab05e598d4967b922580c7ff1f822:
     span:
-      vol: 9
-      start: 772525
-      end: 786016
-  b382fc536fe440859909e77f72209439:
-    work_id: D1409
+      start: 768272
+      end: 781737
+  6ace0d81fede4260b3dd9d935eb51c2c:
     span:
-      vol: 9
-      start: 940866
-      end: 957643
-  8021a232c05c4a7384d7460f4387b096:
-    work_id: D1410
+      start: 935680
+      end: 952413
+  814ebcf7262c40598f1f41e5a27d4d44:
     span:
-      vol: 9
-      start: 1288097
-      end: 1310594
-  ce9a7994cde44cea885b5d32267c7fef:
-    work_id: D1411
+      start: 1280966
+      end: 1303362
+  3f63ef0bc09f46db90314704e07fd0c7:
     span:
-      vol: 9
-      start: 1314326
-      end: 1315445
-  e31cf0a916ed4febb648a5c67c2da5aa:
-    work_id: D1412
+      start: 1307051
+      end: 1308161
+  a0f3f0674679423eb2d04f6b2aeb7ff9:
     span:
-      vol: 9
-      start: 1636647
-      end: 1683744
-  f49be8fd4c09404e83f78a96dc791347:
-    work_id: ''
+      start: 1627432
+      end: 1674355
+  f29be695a37a494f95099def9e36be5e:
     span:
-      vol: 9
-      start: 2097861
-      end: 2133251
-  47d71ae411cb4ac9b181c505530cb12f:
-    work_id: D1414
+      start: 2085960
+      end: 2121201
+  7482fc6c1c8149acbe07d3034cc5b388:
     span:
-      vol: 9
-      start: 2519946
-      end: 2552770
+      start: 2505546
+      end: 2538240
+local_ids:
+  ad26dd1fe5fc4871acb637244d521bcb: 200000
+  2846531c937841a1a1d246bf3f360457: 200001
+  f1eb382daae6419c82834660c5c1eaa4: 200002
+  6eaab05e598d4967b922580c7ff1f822: 200003
+  6ace0d81fede4260b3dd9d935eb51c2c: 200004
+  814ebcf7262c40598f1f41e5a27d4d44: 200005
+  3f63ef0bc09f46db90314704e07fd0c7: 200006
+  a0f3f0674679423eb2d04f6b2aeb7ff9: 200007
+  f29be695a37a494f95099def9e36be5e: 200008
+  7482fc6c1c8149acbe07d3034cc5b388: 200009

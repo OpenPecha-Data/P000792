@@ -1,124 +1,105 @@
-id: 2dfa247d00bc4a4284cb90a8912a0324
+id: dc75bc2c35c44d4fa300fc6bf2e0643b
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  03193c79c47c44a29923e266ec19d587:
-    work_id: D1198
+  3967bccb940348eab7e37987d5b28f0f:
     span:
-      vol: 4
-      start: 1057398
-      end: 1116729
-  87da06bba8754506ae322df3bb3cbe04:
-    work_id: D1199
+      start: 1051182
+      end: 1110437
+  48fbfd26443d4ee5a7f8351da5b5bbc1:
     span:
-      vol: 4
-      start: 1490745
-      end: 1519677
-  02e446f0d2594ab8a80ae1932727c9a2:
-    work_id: D1200
+      start: 1482182
+      end: 1511067
+  311835c39eee4c6496afeb298eca8a2e:
     span:
-      vol: 4
-      start: 1668166
-      end: 1680941
-  af6bd78a87fa417eb28130678d309fe9:
-    work_id: D1201
+      start: 1658615
+      end: 1671361
+  6434d8083dad49ea9430ce7a401cb537:
     span:
-      vol: 4
-      start: 1699038
-      end: 1701928
-  81832997899b4118b50b201faed6381c:
-    work_id: D1202
+      start: 1689348
+      end: 1692235
+  1ca6f6bf1bbd432e923fe4081d7dbf96:
     span:
-      vol: 4
-      start: 1861411
-      end: 1872010
-  7833e3f079b44cf592844c5c07ce79d2:
-    work_id: D1203
+      start: 1850716
+      end: 1861300
+  18db20b209074f30a70c8c8e88741094:
     span:
-      vol: 4
-      start: 2078300
-      end: 2094394
-  2e0d4364cd0c4571b3685596ee166099:
-    work_id: D1204
+      start: 2066291
+      end: 2082360
+  d21b5ed4bab44230a39c1ae0795e1b4d:
     span:
-      vol: 4
-      start: 2123105
-      end: 2126019
-  445cf4d929e74cb98e3ad4d3bdfafc77:
-    work_id: D1205
+      start: 2110909
+      end: 2113820
+  cc85554adcb64ecba8b72f061f71a1ac:
     span:
-      vol: 4
-      start: 2180671
-      end: 2183906
-  5253fca8ffff4aa8926113d0d122177a:
-    work_id: D1206
+      start: 2168128
+      end: 2171351
+  47eb9b23f6834dd09f02d80f4fe13b2d:
     span:
-      vol: 4
-      start: 2198383
-      end: 2200091
-  fd00619126974d109a6c30cf234c7378:
-    work_id: D1207
+      start: 2185735
+      end: 2187432
+  52f42e821b3f4767a6fb302fe6137f03:
     span:
-      vol: 4
-      start: 2206470
-      end: 2208541
-  fcfb4a0df14544eaa2b579cf0a3f143b:
-    work_id: D1208
+      start: 2193769
+      end: 2195836
+  d29e307bb704477693c63f388f9a43fc:
     span:
-      vol: 4
-      start: 2226100
-      end: 2228999
-  a1d918b8ec534c2c8f3bd2b1f63ef718:
-    work_id: D1209
+      start: 2213287
+      end: 2216180
+  8d71170cfac946a591176b6bf185f5c4:
     span:
-      vol: 4
-      start: 2236142
-      end: 2237268
-  b28a1e5220a54e36893f9626def067e4:
-    work_id: D1210
+      start: 2223271
+      end: 2224397
+  55b5e898eabb4abe825538d4ef716d8d:
     span:
-      vol: 4
-      start: 2238075
-      end: 2238352
-  a4043118f5b941269a2ed5f2f3aa629e:
-    work_id: D1211
+      start: 2225182
+      end: 2225459
+  552b2f8703fe427ca0b18eddef4eab56:
     span:
-      vol: 4
-      start: 2244243
-      end: 2245117
-  06534b721afd47f29f903b10549bd76f:
-    work_id: D1212
+      start: 2231303
+      end: 2232177
+  13b21f4801154de08d9f9f13ee4ed90c:
     span:
-      vol: 4
-      start: 2246644
-      end: 2246966
-  c64cd328f4c54005ad74ae98bb90922c:
-    work_id: D1213
+      start: 2233682
+      end: 2234004
+  237e01683b7c4188816430009ee5d607:
     span:
-      vol: 4
-      start: 2248479
-      end: 2249345
-  30f4c5f5536f499abd8b859dbad5f416:
-    work_id: D1214
+      start: 2235486
+      end: 2236352
+  419d4944318b4a2aa355ee0f6aaca39a:
     span:
-      vol: 4
-      start: 2254449
-      end: 2255419
-  e98e03d88cac477ab32afd46a2ca2f70:
-    work_id: D1215
+      start: 2241415
+      end: 2242379
+  86239cbc7cd04bb3bdcfa0d2ea1f0fd1:
     span:
-      vol: 4
-      start: 2280056
-      end: 2281062
-  e459bd68f9dd4ff5a9ce6718e701516e:
-    work_id: D1216
+      start: 2266862
+      end: 2267868
+  d62bab5eaddb412d9ee4fe2389964a88:
     span:
-      vol: 4
-      start: 2284717
-      end: 2285497
-  f5dfd70515004e29acaf37d6ae0bd060:
-    work_id: ''
+      start: 2271494
+      end: 2272261
+  ee847cf56098477d8415b2a8a1ce1708:
     span:
-      vol: 4
-      start: 2304512
-      end: 2306420
+      start: 2291153
+      end: 2293055
+local_ids:
+  3967bccb940348eab7e37987d5b28f0f: 200000
+  48fbfd26443d4ee5a7f8351da5b5bbc1: 200001
+  311835c39eee4c6496afeb298eca8a2e: 200002
+  6434d8083dad49ea9430ce7a401cb537: 200003
+  1ca6f6bf1bbd432e923fe4081d7dbf96: 200004
+  18db20b209074f30a70c8c8e88741094: 200005
+  d21b5ed4bab44230a39c1ae0795e1b4d: 200006
+  cc85554adcb64ecba8b72f061f71a1ac: 200007
+  47eb9b23f6834dd09f02d80f4fe13b2d: 200008
+  52f42e821b3f4767a6fb302fe6137f03: 200009
+  d29e307bb704477693c63f388f9a43fc: 200010
+  8d71170cfac946a591176b6bf185f5c4: 200011
+  55b5e898eabb4abe825538d4ef716d8d: 200012
+  552b2f8703fe427ca0b18eddef4eab56: 200013
+  13b21f4801154de08d9f9f13ee4ed90c: 200014
+  237e01683b7c4188816430009ee5d607: 200015
+  419d4944318b4a2aa355ee0f6aaca39a: 200016
+  86239cbc7cd04bb3bdcfa0d2ea1f0fd1: 200017
+  d62bab5eaddb412d9ee4fe2389964a88: 200018
+  ee847cf56098477d8415b2a8a1ce1708: 200019
