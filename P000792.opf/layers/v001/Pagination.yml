@@ -2797,6 +2797,7 @@ annotations:
     span:
       start: 404438
       end: 405186
+    note_ref: edd85c3e1a1d48cd9405c12d3df66b35
   edd85c3e1a1d48cd9405c12d3df66b35:
     page_index: 177a
     page_info: ''
@@ -2804,6 +2805,7 @@ annotations:
     span:
       start: 405189
       end: 406413
+    note_ref: 8721c97835564aaea6d66a0726ee2b0a
   8721c97835564aaea6d66a0726ee2b0a:
     page_index: 177b
     page_info: ''
