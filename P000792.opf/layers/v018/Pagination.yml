@@ -1256,6 +1256,7 @@ annotations:
     span:
       start: 195893
       end: 196605
+    note_ref: de99cbdcaba44b768380113780e205db
   8773716bdec543e9b33649a8d12ebf98:
     page_index: 82a
     page_info: ''
@@ -1263,6 +1264,7 @@ annotations:
     span:
       start: 196608
       end: 197958
+    note_ref: de99cbdcaba44b768380113780e205db
   c884084f97da441098b28fe0cdcb5a65:
     page_index: 82b
     page_info: ''
@@ -1270,6 +1272,7 @@ annotations:
     span:
       start: 197961
       end: 199337
+    note_ref: de99cbdcaba44b768380113780e205db
   7f214b12dcd346ccb62c28ef6f01cd99:
     page_index: 83a
     page_info: ''
@@ -1277,6 +1280,7 @@ annotations:
     span:
       start: 199340
       end: 200683
+    note_ref: de99cbdcaba44b768380113780e205db
   0af1bcdb2fcf45daa43adacd07cd7863:
     page_index: 83b
     page_info: ''
@@ -1284,6 +1288,7 @@ annotations:
     span:
       start: 200686
       end: 202019
+    note_ref: de99cbdcaba44b768380113780e205db
   70755d2d0c2a4c3cab55d8f96f97b843:
     page_index: 84a
     page_info: ''
@@ -1291,6 +1296,7 @@ annotations:
     span:
       start: 202022
       end: 203378
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   365886e7f5e74492a83d9a4dab38f1f5:
     page_index: 84b
     page_info: ''
@@ -1298,6 +1304,7 @@ annotations:
     span:
       start: 203381
       end: 204740
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   3599125d748841649a4885cc85344b9a:
     page_index: 85a
     page_info: ''
@@ -1305,6 +1312,7 @@ annotations:
     span:
       start: 204743
       end: 206022
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   6b2fadf792bf4dafb61c06f99c20cd21:
     page_index: 85b
     page_info: ''
@@ -1312,6 +1320,7 @@ annotations:
     span:
       start: 206025
       end: 207340
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   89886300d24b4a3b98648d6fdefecdcb:
     page_index: 86a
     page_info: ''
@@ -1319,6 +1328,7 @@ annotations:
     span:
       start: 207343
       end: 208711
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   aa518ba2b99e457794cdc4a31f3c7698:
     page_index: 86b
     page_info: ''
@@ -1326,6 +1336,7 @@ annotations:
     span:
       start: 208714
       end: 210040
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   44e88620649b4bfb9596c47b11790c13:
     page_index: 87a
     page_info: ''
@@ -1333,6 +1344,7 @@ annotations:
     span:
       start: 210043
       end: 211417
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   43c53ef152224e6ea1598990d6ed34c7:
     page_index: 87b
     page_info: ''
@@ -1340,6 +1352,7 @@ annotations:
     span:
       start: 211420
       end: 212759
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   3c5777e944c54649ba4ca5023e68e083:
     page_index: 88a
     page_info: ''
@@ -1347,6 +1360,7 @@ annotations:
     span:
       start: 212762
       end: 214114
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   6f8c9122061e442e815c115e973e8b11:
     page_index: 88b
     page_info: ''
@@ -1354,6 +1368,7 @@ annotations:
     span:
       start: 214117
       end: 215449
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   fb297efce0494bbeacaa49641558514b:
     page_index: 89a
     page_info: ''
@@ -1361,6 +1376,7 @@ annotations:
     span:
       start: 215452
       end: 216836
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   edcf9e4bb4fa438f9d1f24c88e42f71b:
     page_index: 89b
     page_info: ''
@@ -1368,6 +1384,7 @@ annotations:
     span:
       start: 216839
       end: 218114
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   6335464625e048c7b2c9bf784eaf99c3:
     page_index: 90a
     page_info: ''
@@ -1375,6 +1392,7 @@ annotations:
     span:
       start: 218117
       end: 219481
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   1a55de4f15da4559a54072b6eb6d02b0:
     page_index: 90b
     page_info: ''
@@ -1382,6 +1400,7 @@ annotations:
     span:
       start: 219484
       end: 220813
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   5d3d61f742d240a5a572feac0934a4e7:
     page_index: 91a
     page_info: ''
@@ -1389,6 +1408,7 @@ annotations:
     span:
       start: 220816
       end: 222168
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   71085b6b2f0f4b83b2d244eddcb65c4b:
     page_index: 91b
     page_info: ''
@@ -1396,6 +1416,7 @@ annotations:
     span:
       start: 222171
       end: 223496
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   b825af5c7da440d4afa08cbc7a03552d:
     page_index: 92a
     page_info: ''
@@ -1403,6 +1424,7 @@ annotations:
     span:
       start: 223499
       end: 224766
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   0a8d1f20120240068857c42540e7a160:
     page_index: 92b
     page_info: ''
@@ -1410,6 +1432,7 @@ annotations:
     span:
       start: 224769
       end: 226093
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   06fce5da3a714554b638bf70a81fa3af:
     page_index: 93a
     page_info: ''
@@ -1417,6 +1440,7 @@ annotations:
     span:
       start: 226096
       end: 227429
+    note_ref: f3ca63b40e1547198705ed2c00a05bec
   67bd91148b5f47ffa5d7d923640fdb81:
     page_index: 93b
     page_info: ''
@@ -1424,6 +1448,7 @@ annotations:
     span:
       start: 227432
       end: 228766
+    note_ref: a758cde152d845b087da7a5658239b2e
   0eec53e6603b4f1b9abdfad57eeedd42:
     page_index: 94a
     page_info: ''
@@ -1431,6 +1456,7 @@ annotations:
     span:
       start: 228769
       end: 230003
+    note_ref: a758cde152d845b087da7a5658239b2e
   6477707107624625bfc099428fd70b19:
     page_index: 94b
     page_info: ''
@@ -1438,6 +1464,7 @@ annotations:
     span:
       start: 230006
       end: 231340
+    note_ref: a758cde152d845b087da7a5658239b2e
   33e9ca1c953748cea783e316de0470b6:
     page_index: 95a
     page_info: ''
@@ -1445,6 +1472,7 @@ annotations:
     span:
       start: 231343
       end: 232650
+    note_ref: a758cde152d845b087da7a5658239b2e
   bfe6192441914da593c649f2c2d0bc10:
     page_index: 95b
     page_info: ''
@@ -1452,6 +1480,7 @@ annotations:
     span:
       start: 232653
       end: 234019
+    note_ref: a758cde152d845b087da7a5658239b2e
   de99cbdcaba44b768380113780e205db:
     page_index: 96a
     page_info: ''
@@ -1459,6 +1488,7 @@ annotations:
     span:
       start: 234022
       end: 235352
+    note_ref: a758cde152d845b087da7a5658239b2e
   f3ca63b40e1547198705ed2c00a05bec:
     page_index: 96b
     page_info: ''
