@@ -30,18 +30,10 @@ annotations:
     span:
       start: 485759
       end: 487725
-  ba5053f5aefb450789d914dcc4b662a4:
-    span:
-      start: 491226
-      end: 492018
   994efa5daa764b1aa8bc28a7dee5b924:
     span:
       start: 499970
       end: 501203
-  74da8e57d7fd45e18ac068c87d4bc5b3:
-    span:
-      start: 597809
-      end: 606849
   bc0637d58daf40fb96ab773208d0d2d2:
     span:
       start: 619530
@@ -86,9 +78,7 @@ local_ids:
   45ef23c3e9b04d36a70eb6ae33e9a5eb: 200004
   5541f882d0ad4631bcc79cc909eac7c8: 200005
   20e8d5f73a84450893734430cf984f96: 200006
-  ba5053f5aefb450789d914dcc4b662a4: 200007
   994efa5daa764b1aa8bc28a7dee5b924: 200008
-  74da8e57d7fd45e18ac068c87d4bc5b3: 200009
   bc0637d58daf40fb96ab773208d0d2d2: 200010
   495b79d5490b4eeab6c2da70506a4a22: 200011
   cc818aa208f74be29a1a9a638c490b38: 200012
