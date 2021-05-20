@@ -10903,6 +10903,7 @@ annotations:
     span:
       start: 1822218
       end: 1822906
+    note_ref: ebae912ad88f4217bd83660310c28b9b
   938ff3788a20481690b2169560b7c412:
     page_index: 683a
     page_info: ''
@@ -10910,6 +10911,7 @@ annotations:
     span:
       start: 1822909
       end: 1824281
+    note_ref: ebae912ad88f4217bd83660310c28b9b
   8e8e2cbf391849e3af0f285c784cd1a3:
     page_index: 683b
     page_info: ''
@@ -10917,6 +10919,7 @@ annotations:
     span:
       start: 1824284
       end: 1825646
+    note_ref: ebae912ad88f4217bd83660310c28b9b
   5cf96f66ff7d402a948080a8ff829565:
     page_index: 684a
     page_info: ''
@@ -10924,6 +10927,7 @@ annotations:
     span:
       start: 1825649
       end: 1827020
+    note_ref: ebae912ad88f4217bd83660310c28b9b
   bf4215862f2c4c37a79274a3bf592881:
     page_index: 684b
     page_info: ''
@@ -10931,6 +10935,7 @@ annotations:
     span:
       start: 1827023
       end: 1828376
+    note_ref: ebae912ad88f4217bd83660310c28b9b
   ebae912ad88f4217bd83660310c28b9b:
     page_index: 685a
     page_info: ''
@@ -11109,6 +11114,7 @@ annotations:
     span:
       start: 1854071
       end: 1854836
+    note_ref: 8d545c75b7e942c8809a4148925d2df4
   f2ec1048051f47c0ba9001b208277b7d:
     page_index: 697a
     page_info: ''
@@ -11116,6 +11122,7 @@ annotations:
     span:
       start: 1854839
       end: 1856236
+    note_ref: 8d545c75b7e942c8809a4148925d2df4
   33565bce8bcf47419e6f4ec7ed379224:
     page_index: 697b
     page_info: ''
@@ -11123,6 +11130,7 @@ annotations:
     span:
       start: 1856239
       end: 1857596
+    note_ref: 8d545c75b7e942c8809a4148925d2df4
   41eb508ae55846b0a86a72b7956bbf74:
     page_index: 698a
     page_info: ''
@@ -11130,6 +11138,7 @@ annotations:
     span:
       start: 1857599
       end: 1858952
+    note_ref: 8d545c75b7e942c8809a4148925d2df4
   7dc7131c87d340be974d0439f4fbad5f:
     page_index: 698b
     page_info: ''
@@ -11137,6 +11146,7 @@ annotations:
     span:
       start: 1858955
       end: 1860327
+    note_ref: 8d545c75b7e942c8809a4148925d2df4
   8d545c75b7e942c8809a4148925d2df4:
     page_index: 699a
     page_info: ''
@@ -11144,6 +11154,7 @@ annotations:
     span:
       start: 1860330
       end: 1861416
+    note_ref: 8d545c75b7e942c8809a4148925d2df4
   901d8ea2d85446589b9f6350a9ac6655:
     page_index: 699b
     page_info: ''
@@ -11263,6 +11274,7 @@ annotations:
     span:
       start: 1879475
       end: 1880257
+    note_ref: d39147d2bed94f72835b324b0836e666
   a5485823f0734683b531e194ad70a6aa:
     page_index: 708a
     page_info: ''
@@ -11270,6 +11282,7 @@ annotations:
     span:
       start: 1880260
       end: 1881643
+    note_ref: d39147d2bed94f72835b324b0836e666
   453f508c77b549d0a9d81043f636693c:
     page_index: 708b
     page_info: ''
@@ -11277,6 +11290,7 @@ annotations:
     span:
       start: 1881646
       end: 1883002
+    note_ref: d39147d2bed94f72835b324b0836e666
   16156b2a25214b5682b0a40a007f526b:
     page_index: 709a
     page_info: ''
@@ -11284,6 +11298,7 @@ annotations:
     span:
       start: 1883005
       end: 1884387
+    note_ref: d39147d2bed94f72835b324b0836e666
   7941b1915c524eaa8a539ccdbfa216b3:
     page_index: 709b
     page_info: ''
@@ -11291,6 +11306,7 @@ annotations:
     span:
       start: 1884390
       end: 1885769
+    note_ref: d39147d2bed94f72835b324b0836e666
   4ad69d695d2b48a9bcfe0db7c0d309b7:
     page_index: 710a
     page_info: ''
@@ -11298,6 +11314,7 @@ annotations:
     span:
       start: 1885772
       end: 1887162
+    note_ref: d39147d2bed94f72835b324b0836e666
   a0ddc33dd5084f83a8ccbc1510db43d8:
     page_index: 710b
     page_info: ''
@@ -11305,6 +11322,7 @@ annotations:
     span:
       start: 1887165
       end: 1888550
+    note_ref: d39147d2bed94f72835b324b0836e666
   d39147d2bed94f72835b324b0836e666:
     page_index: 711a
     page_info: ''
@@ -11312,6 +11330,7 @@ annotations:
     span:
       start: 1888553
       end: 1889995
+    note_ref: d39147d2bed94f72835b324b0836e666
   30be2242168049ebb895076dfc28427c:
     page_index: 711b
     page_info: ''
