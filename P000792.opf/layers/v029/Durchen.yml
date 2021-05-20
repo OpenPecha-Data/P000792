@@ -2,14 +2,9 @@ id: 207face150f249df9610d8e6b3c6d391
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  0dcfbc7ffbd84d94ae6bbd627ded9557:
-    span:
-      start: 1202784
-      end: 1373204
   25520837faaf4e4f9d6aff47dcafb773:
     span:
       start: 2454219
       end: 2592673
 local_ids:
-  0dcfbc7ffbd84d94ae6bbd627ded9557: 200000
   25520837faaf4e4f9d6aff47dcafb773: 200001

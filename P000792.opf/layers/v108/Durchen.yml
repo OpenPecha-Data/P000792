@@ -6,10 +6,6 @@ annotations:
     span:
       start: 1083559
       end: 1179798
-  9935a7d065824ec29c07a7c15bd98093:
-    span:
-      start: 1276897
-      end: 1281572
   df8c7b9ef65e4fa4bc4b417c2c069887:
     span:
       start: 1380383
@@ -60,7 +56,6 @@ annotations:
       end: 2570170
 local_ids:
   8d8ceeb28550452bb31515371ed007fd: 200000
-  9935a7d065824ec29c07a7c15bd98093: 200001
   df8c7b9ef65e4fa4bc4b417c2c069887: 200002
   bb251f0791bb4c08a1330e079593f473: 200003
   cda48fc9c24b4a749b7595dd5d76b3c5: 200004
