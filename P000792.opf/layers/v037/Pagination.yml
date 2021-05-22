@@ -7507,6 +7507,7 @@ annotations:
     span:
       start: 1201325
       end: 1202130
+    note_ref: 3ed0cb9e2a974c47aeba5b219489dcf8
   76acac64659a4a44b773c8828e008251:
     page_index: 487a
     page_info: ''
@@ -7514,6 +7515,7 @@ annotations:
     span:
       start: 1202133
       end: 1203552
+    note_ref: 3ed0cb9e2a974c47aeba5b219489dcf8
   9b9b716c2fe64de987ef83233dd477f2:
     page_index: 487b
     page_info: ''
@@ -7521,6 +7523,7 @@ annotations:
     span:
       start: 1203555
       end: 1204564
+    note_ref: 3ed0cb9e2a974c47aeba5b219489dcf8
   3ed0cb9e2a974c47aeba5b219489dcf8:
     page_index: 488a
     page_info: ''
@@ -7563,6 +7566,7 @@ annotations:
     span:
       start: 1209945
       end: 1210640
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   da43275925f54937a5b0d87e06dc4352:
     page_index: 491a
     page_info: ''
@@ -7570,6 +7574,7 @@ annotations:
     span:
       start: 1210643
       end: 1211930
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   8ed1bc51a91643839e59af42e2382a70:
     page_index: 491b
     page_info: ''
@@ -7577,6 +7582,7 @@ annotations:
     span:
       start: 1211933
       end: 1213230
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   f9ff8e55aac84601b5eb5be86038837a:
     page_index: 492a
     page_info: ''
@@ -7584,6 +7590,7 @@ annotations:
     span:
       start: 1213233
       end: 1214607
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   e2c247acd8034c3ca55c22573d904651:
     page_index: 492b
     page_info: ''
@@ -7591,6 +7598,7 @@ annotations:
     span:
       start: 1214610
       end: 1216028
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   dd4ae941fea94f58b488d01c22ca035e:
     page_index: 493a
     page_info: ''
@@ -7598,6 +7606,7 @@ annotations:
     span:
       start: 1216031
       end: 1217266
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   70c6041086074511bd3b06ddb4c29b23:
     page_index: 493b
     page_info: ''
@@ -7605,6 +7614,7 @@ annotations:
     span:
       start: 1217269
       end: 1218323
+    note_ref: d243048f46894fb79864a5a945e1cbb2
   d243048f46894fb79864a5a945e1cbb2:
     page_index: 494a
     page_info: ''
