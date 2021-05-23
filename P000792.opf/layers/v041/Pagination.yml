@@ -6556,6 +6556,7 @@ annotations:
     span:
       start: 1097851
       end: 1098621
+    note_ref: 7cafe0d2f8ad4bd994dd8922a1c046e8
   a0a8e0ffc54341a78fc6946c583394e9:
     page_index: 425a
     page_info: ''
@@ -6563,6 +6564,7 @@ annotations:
     span:
       start: 1098624
       end: 1099982
+    note_ref: 7cafe0d2f8ad4bd994dd8922a1c046e8
   b21a82ced0164af684ee4c5f49732788:
     page_index: 425b
     page_info: ''
@@ -6570,6 +6572,7 @@ annotations:
     span:
       start: 1099985
       end: 1101351
+    note_ref: bcf5b56af33b464a83df771ba76b336c
   7cafe0d2f8ad4bd994dd8922a1c046e8:
     page_index: 426a
     page_info: ''
@@ -6577,6 +6580,7 @@ annotations:
     span:
       start: 1101354
       end: 1102864
+    note_ref: bcf5b56af33b464a83df771ba76b336c
   bcf5b56af33b464a83df771ba76b336c:
     page_index: 426b
     page_info: ''
@@ -6699,6 +6703,7 @@ annotations:
     span:
       start: 1115440
       end: 1116194
+    note_ref: 6448cedb44b24d928134f92a30d055af
   c6d9c317b40d4c4ba2044fe67fd9bbf3:
     page_index: 434b
     page_info: ''
@@ -6706,6 +6711,7 @@ annotations:
     span:
       start: 1116197
       end: 1117600
+    note_ref: 6448cedb44b24d928134f92a30d055af
   9b6980324613400480e85818d9c9d1de:
     page_index: 435a
     page_info: ''
@@ -6713,6 +6719,7 @@ annotations:
     span:
       start: 1117603
       end: 1118977
+    note_ref: 6448cedb44b24d928134f92a30d055af
   a21d7ba76ef140ccb7aa5ebb27fd7c18:
     page_index: 435b
     page_info: ''
@@ -6720,6 +6727,7 @@ annotations:
     span:
       start: 1118980
       end: 1120372
+    note_ref: 6448cedb44b24d928134f92a30d055af
   60a8ca317e1d44dca76b523fa730e591:
     page_index: 436a
     page_info: ''
@@ -6727,6 +6735,7 @@ annotations:
     span:
       start: 1120375
       end: 1121734
+    note_ref: 6448cedb44b24d928134f92a30d055af
   6448cedb44b24d928134f92a30d055af:
     page_index: 436b
     page_info: ''
@@ -6734,6 +6743,7 @@ annotations:
     span:
       start: 1121737
       end: 1123296
+    note_ref: 6448cedb44b24d928134f92a30d055af
   e7e9a6f961f54b098a52a442853c77c0:
     page_index: 437a
     page_info: ''
